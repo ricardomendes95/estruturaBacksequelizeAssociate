@@ -1,0 +1,82 @@
+[
+  {
+    "cst": "00",
+    "name": "Tributada integralmente"
+  },
+  {
+    "cst": "10",
+    "name": "Tributada e com cobrança do ICMS por substituição tributária"
+  },
+  {
+    "cst": "20",
+    "name": "Com redução da BC"
+  },
+  {
+    "cst": "30",
+    "name": "Isenta e/ou não tributada e com cobrança do ICMS por substituição tributária"
+  },
+  {
+    "cst": "40",
+    "name": "Isenta"
+  },
+  {
+    "cst": "41",
+    "name": "Não tributada"
+  },
+  {
+    "cst": "50",
+    "name": "Com suspensão"
+  },
+  {
+    "cst": "51",
+    "name": "Com diferimento"
+  },
+  {
+    "cst": "60",
+    "name": "ICMS cobrado anteriormente por substituição tributária"
+  },
+  {
+    "cst": "70",
+    "name": "Com redução da BC e cobrança do ICMS por substituição tributária"
+  },
+  {
+    "cst": "101",
+    "name": "Tributada pelo Simples Nacional com permissão de crédito"
+  },
+  {
+    "cst": "102",
+    "name": "Tributada pelo Simples Nacional sem permissão de crédito"
+  },
+  {
+    "cst": "103",
+    "name": "Isenção do ICMS no Simples Nacional para faixa de receita bruta"
+  },
+  {
+    "cst": "201",
+    "name": "Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tributária"
+  },
+  {
+    "cst": "202",
+    "name": "Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tributária"
+  },
+  {
+    "cst": "203",
+    "name": "Isenção do ICMS no Simples Nacional para faixa de receita bruta e com cobrança do ICMS por substituição tributária"
+  },
+  {
+    "cst": "300",
+    "name": "Imune"
+  },
+  {
+    "cst": "400",
+    "name": "Não tributada pelo Simples Nacional"
+  },
+  {
+    "cst": "500",
+    "name": "ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação"
+  },
+  {
+    "cst": "900",
+    "name": "Outros"
+  }
+]

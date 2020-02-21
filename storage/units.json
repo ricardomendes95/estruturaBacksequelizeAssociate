@@ -1,0 +1,46 @@
+[
+  {
+    "initials": "CM",
+    "description": "CENTÍMETRO"
+  },
+  {
+    "initials": "CM2",
+    "description": "CENTÍMETRO QUADRADO"
+  },
+  {
+    "initials": "G",
+    "description": "GRAMAS"
+  },
+  {
+    "initials": "M",
+    "description": "METRO"
+  },
+  {
+    "initials": "M2",
+    "description": "METRO QUADRADO"
+  },
+  {
+    "initials": "M3",
+    "description": "METRO CÚBICO"
+  },
+  {
+    "initials": "K",
+    "description": "QUILATE"
+  },
+  {
+    "initials": "TB",
+    "description": "TUBO"
+  },
+  {
+    "initials": "VD",
+    "description": "VIDRO"
+  },
+  {
+    "initials": "KG",
+    "description": "QUILOGRAMA"
+  },
+  {
+    "initials": "L",
+    "description": "LITRO"
+  }
+]

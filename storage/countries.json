@@ -1,0 +1,1674 @@
+[
+  {
+    "name": "Afeganistão",
+    "formalName": "República Islâmica do Afeganistão",
+    "iso": "AF",
+    "iso3": "AFG",
+    "bacen": 132
+  },
+  {
+    "name": "Albânia",
+    "formalName": "República da Albânia",
+    "iso": "AL",
+    "iso3": "ALB",
+    "bacen": 175
+  },
+  {
+    "name": "Algéria",
+    "formalName": "República Democrática Popular da Algéria",
+    "iso": "DZ",
+    "iso3": "DZA",
+    "bacen": 590
+  },
+  {
+    "name": "Samoa Americana",
+    "formalName": "Território de Samoa Americana",
+    "iso": "AS",
+    "iso3": "ASM",
+    "bacen": 6912
+  },
+  {
+    "name": "Andorra",
+    "formalName": "Principado Andorra",
+    "iso": "AD",
+    "iso3": "AND",
+    "bacen": 370
+  },
+  {
+    "name": "Angola",
+    "formalName": "República de Angola",
+    "iso": "AO",
+    "iso3": "AGO",
+    "bacen": 400
+  },
+  {
+    "name": "Anguilla",
+    "formalName": "Anguilla",
+    "iso": "AI",
+    "iso3": "AIA",
+    "bacen": 418
+  },
+  {
+    "name": "Antártida",
+    "formalName": "Antártida",
+    "iso": "AQ",
+    "iso3": "ATA",
+    "bacen": 420
+  },
+  {
+    "name": "Antigua e Barbuda",
+    "formalName": "Antigua e Barbuda",
+    "iso": "AG",
+    "iso3": "ATG",
+    "bacen": 434
+  },
+  {
+    "name": "Argentina",
+    "formalName": "República Argentina",
+    "iso": "AR",
+    "iso3": "ARG",
+    "bacen": 639
+  },
+  {
+    "name": "Armênia",
+    "formalName": "República da Armênia",
+    "iso": "AM",
+    "iso3": "ARM",
+    "bacen": 647
+  },
+  {
+    "name": "Aruba",
+    "formalName": "Aruba",
+    "iso": "AW",
+    "iso3": "ABW",
+    "bacen": 655
+  },
+  {
+    "name": "Austrália",
+    "formalName": "Comunidade da Austrália",
+    "iso": "AU",
+    "iso3": "AUS",
+    "bacen": 3433
+  },
+  {
+    "name": "Áustria",
+    "formalName": "República da Áustria",
+    "iso": "AT",
+    "iso3": "AUT",
+    "bacen": 728
+  },
+  {
+    "name": "Azerbaijão",
+    "formalName": "República do Azerbaijão",
+    "iso": "AZ",
+    "iso3": "AZE",
+    "bacen": 736
+  },
+  {
+    "name": "Bahamas",
+    "formalName": "Comunidade de Bahamas",
+    "iso": "BS",
+    "iso3": "BHS",
+    "bacen": 779
+  },
+  {
+    "name": "Bahrein",
+    "formalName": "Reino do Bahrein",
+    "iso": "BH",
+    "iso3": "BHR",
+    "bacen": 809
+  },
+  {
+    "name": "Bangladesh",
+    "formalName": "República Popular de Bangladesh",
+    "iso": "BD",
+    "iso3": "BGD",
+    "bacen": 817
+  },
+  {
+    "name": "Barbados",
+    "formalName": "Barbados",
+    "iso": "BB",
+    "iso3": "BRB",
+    "bacen": 833
+  },
+  {
+    "name": "Bielorrússia",
+    "formalName": "República da Bielorrússia",
+    "iso": "BY",
+    "iso3": "BLR",
+    "bacen": 850
+  },
+  {
+    "name": "Bélgica",
+    "formalName": "Reino da Bélgica",
+    "iso": "BE",
+    "iso3": "BEL",
+    "bacen": 876
+  },
+  {
+    "name": "Belize",
+    "formalName": "Belize",
+    "iso": "BZ",
+    "iso3": "BLZ",
+    "bacen": 884
+  },
+  {
+    "name": "Benin",
+    "formalName": "República do Benin",
+    "iso": "BJ",
+    "iso3": "BEN",
+    "bacen": 2291
+  },
+  {
+    "name": "Bermuda",
+    "formalName": "Bermuda",
+    "iso": "BM",
+    "iso3": "BMU",
+    "bacen": 906
+  },
+  {
+    "name": "Butão",
+    "formalName": "Reino do Butão",
+    "iso": "BT",
+    "iso3": "BTN",
+    "bacen": 1198
+  },
+  {
+    "name": "Bolívia",
+    "formalName": "Estado Plurinacional da Bolívia",
+    "iso": "BO",
+    "iso3": "BOL",
+    "bacen": 973
+  },
+  {
+    "name": "Bósnia e Herzegovina",
+    "formalName": "Bósnia e Herzegovina",
+    "iso": "BA",
+    "iso3": "BIH",
+    "bacen": 981
+  },
+  {
+    "name": "Botswana",
+    "formalName": "República da Botswana",
+    "iso": "BW",
+    "iso3": "BWA",
+    "bacen": 1015
+  },
+  {
+    "name": "Ilha Bouvet",
+    "formalName": "Ilha Bouvet",
+    "iso": "BV",
+    "iso3": "BVT",
+    "bacen": 1023
+  },
+  {
+    "name": "Brasil",
+    "formalName": "República Federativa do Brasil",
+    "iso": "BR",
+    "iso3": "BRA",
+    "bacen": 1058
+  },
+  {
+    "name": "Território Britânico do Oceano Índico",
+    "formalName": "Território Britânico do Oceano Índico",
+    "iso": "IO",
+    "iso3": "IOT",
+    "bacen": 7820
+  },
+  {
+    "name": "Brunei",
+    "formalName": "Estado do Brunei Darussalam",
+    "iso": "BN",
+    "iso3": "BRN",
+    "bacen": 1082
+  },
+  {
+    "name": "Bulgária",
+    "formalName": "República da Bulgária",
+    "iso": "BG",
+    "iso3": "BGR",
+    "bacen": 1112
+  },
+  {
+    "name": "Burkina Faso",
+    "formalName": "Burkina Faso",
+    "iso": "BF",
+    "iso3": "BFA",
+    "bacen": 310
+  },
+  {
+    "name": "Burundi",
+    "formalName": "República do Burundi",
+    "iso": "BI",
+    "iso3": "BDI",
+    "bacen": 1155
+  },
+  {
+    "name": "Camboja",
+    "formalName": "Reino do Camboja",
+    "iso": "KH",
+    "iso3": "KHM",
+    "bacen": 1414
+  },
+  {
+    "name": "Camarões",
+    "formalName": "República de Camarões",
+    "iso": "CM",
+    "iso3": "CMR",
+    "bacen": 1457
+  },
+  {
+    "name": "Canadá",
+    "formalName": "Canadá",
+    "iso": "CA",
+    "iso3": "CAN",
+    "bacen": 1490
+  },
+  {
+    "name": "Cabo Verde",
+    "formalName": "República do Cabo Verde",
+    "iso": "CV",
+    "iso3": "CPV",
+    "bacen": 1279
+  },
+  {
+    "name": "Ilhas Cayman",
+    "formalName": "Ilhas Cayman",
+    "iso": "KY",
+    "iso3": "CYM",
+    "bacen": 1376
+  },
+  {
+    "name": "República Centro-Africana",
+    "formalName": "República Centro-Africana",
+    "iso": "CF",
+    "iso3": "CAF",
+    "bacen": 6408
+  },
+  {
+    "name": "Chade",
+    "formalName": "República do Chade",
+    "iso": "TD",
+    "iso3": "TCD",
+    "bacen": 7889
+  },
+  {
+    "name": "Chile",
+    "formalName": "República do Chile",
+    "iso": "CL",
+    "iso3": "CHL",
+    "bacen": 1589
+  },
+  {
+    "name": "China",
+    "formalName": "República Popular da China",
+    "iso": "CN",
+    "iso3": "CHN",
+    "bacen": 1600
+  },
+  {
+    "name": "Ilha Christmas",
+    "formalName": "Território da Ilha Christmas",
+    "iso": "CX",
+    "iso3": "CXR",
+    "bacen": 5118
+  },
+  {
+    "name": "Ilhas Cocos (Keeling)",
+    "formalName": "Território das Ilhas Cocos (Keeling)",
+    "iso": "CC",
+    "iso3": "CCK",
+    "bacen": 1651
+  },
+  {
+    "name": "Colômbia",
+    "formalName": "República da Colômbia",
+    "iso": "CO",
+    "iso3": "COL",
+    "bacen": 1694
+  },
+  {
+    "name": "Comores",
+    "formalName": "União das Comores",
+    "iso": "KM",
+    "iso3": "COM",
+    "bacen": 1732
+  },
+  {
+    "name": "Congo",
+    "formalName": "República do Congo",
+    "iso": "CG",
+    "iso3": "COG",
+    "bacen": 1775
+  },
+  {
+    "name": "Congo (DR)",
+    "formalName": "República Democrática do Congo",
+    "iso": "CD",
+    "iso3": "COD",
+    "bacen": 8885
+  },
+  {
+    "name": "Ilhas Cook",
+    "formalName": "Ilhas Cook",
+    "iso": "CK",
+    "iso3": "COK",
+    "bacen": 1830
+  },
+  {
+    "name": "Costa Rica",
+    "formalName": "República da Costa Rica",
+    "iso": "CR",
+    "iso3": "CRI",
+    "bacen": 1961
+  },
+  {
+    "name": "Costa do Marfim",
+    "formalName": "República da Costa do Marfim",
+    "iso": "CI",
+    "iso3": "CIV",
+    "bacen": 1937
+  },
+  {
+    "name": "Croácia",
+    "formalName": "República da Croácia",
+    "iso": "HR",
+    "iso3": "HRV",
+    "bacen": 1953
+  },
+  {
+    "name": "Cuba",
+    "formalName": "República de Cuba",
+    "iso": "CU",
+    "iso3": "CUB",
+    "bacen": 1996
+  },
+  {
+    "name": "Chipre",
+    "formalName": "República do Chipre",
+    "iso": "CY",
+    "iso3": "CYP",
+    "bacen": 1635
+  },
+  {
+    "name": "República Tcheca",
+    "formalName": "República Tcheca",
+    "iso": "CZ",
+    "iso3": "CZE",
+    "bacen": 7919
+  },
+  {
+    "name": "Dinamarca",
+    "formalName": "Reino da Dinamarca",
+    "iso": "DK",
+    "iso3": "DNK",
+    "bacen": 2321
+  },
+  {
+    "name": "Djibuti",
+    "formalName": "República do Djibuti",
+    "iso": "DJ",
+    "iso3": "DJI",
+    "bacen": 7838
+  },
+  {
+    "name": "Dominica",
+    "formalName": "Comunidade da Dominica",
+    "iso": "DM",
+    "iso3": "DMA",
+    "bacen": 2356
+  },
+  {
+    "name": "República Dominicana",
+    "formalName": "República Dominicana",
+    "iso": "DO",
+    "iso3": "DOM",
+    "bacen": 6475
+  },
+  {
+    "name": "Equador",
+    "formalName": "República do Equador",
+    "iso": "EC",
+    "iso3": "ECU",
+    "bacen": 2399
+  },
+  {
+    "name": "Egito",
+    "formalName": "República Árabe do Egito",
+    "iso": "EG",
+    "iso3": "EGY",
+    "bacen": 2402
+  },
+  {
+    "name": "El Salvador",
+    "formalName": "República El Salvador",
+    "iso": "SV",
+    "iso3": "SLV",
+    "bacen": 6874
+  },
+  {
+    "name": "Guiné Equatorial",
+    "formalName": "República do Guiné Equatorial",
+    "iso": "GQ",
+    "iso3": "GNQ",
+    "bacen": 3310
+  },
+  {
+    "name": "Eritreia",
+    "formalName": "Estado da Eritreia",
+    "iso": "ER",
+    "iso3": "ERI",
+    "bacen": 2437
+  },
+  {
+    "name": "Estônia",
+    "formalName": "República da Estônia",
+    "iso": "EE",
+    "iso3": "EST",
+    "bacen": 2518
+  },
+  {
+    "name": "Etiópia",
+    "formalName": "República Democrática Federal da Etiópia",
+    "iso": "ET",
+    "iso3": "ETH",
+    "bacen": 2534
+  },
+  {
+    "name": "Ilhas Malvinas",
+    "formalName": "Ilhas Malvinas",
+    "iso": "FK",
+    "iso3": "FLK",
+    "bacen": 2550
+  },
+  {
+    "name": "Ilhas Faroe",
+    "formalName": "Ilhas Faroe",
+    "iso": "FO",
+    "iso3": "FRO",
+    "bacen": 2593
+  },
+  {
+    "name": "Fiji",
+    "formalName": "República do Fiji",
+    "iso": "FJ",
+    "iso3": "FJI",
+    "bacen": 8702
+  },
+  {
+    "name": "Finlândia",
+    "formalName": "República da Finlândia",
+    "iso": "FI",
+    "iso3": "FIN",
+    "bacen": 2712
+  },
+  {
+    "name": "França",
+    "formalName": "República Francesa",
+    "iso": "FR",
+    "iso3": "FRA",
+    "bacen": 6939
+  },
+  {
+    "name": "Guiana Francesa",
+    "formalName": "Guiana Francesa",
+    "iso": "GF",
+    "iso3": "GUF",
+    "bacen": 3255
+  },
+  {
+    "name": "Polinésia Francesa",
+    "formalName": "Polinésia Francesa",
+    "iso": "PF",
+    "iso3": "PYF",
+    "bacen": 5991
+  },
+  {
+    "name": "Terras Austrais e Antárticas Francesas",
+    "formalName": "Território das Terras Austrais e Antárticas Francesas",
+    "iso": "TF",
+    "iso3": "ATF",
+    "bacen": 7811
+  },
+  {
+    "name": "Gabão",
+    "formalName": "República Gabonesa",
+    "iso": "GA",
+    "iso3": "GAB",
+    "bacen": 2810
+  },
+  {
+    "name": "Gâmbia",
+    "formalName": "República da Gâmbia",
+    "iso": "GM",
+    "iso3": "GMB",
+    "bacen": 2852
+  },
+  {
+    "name": "Geórgia",
+    "formalName": "Geórgia",
+    "iso": "GE",
+    "iso3": "GEO",
+    "bacen": 2917
+  },
+  {
+    "name": "Alemanha",
+    "formalName": "República Federal da Alemanha",
+    "iso": "DE",
+    "iso3": "DEU",
+    "bacen": 230
+  },
+  {
+    "name": "Gana",
+    "formalName": "Repúblia de Gana",
+    "iso": "GH",
+    "iso3": "GHA",
+    "bacen": 2895
+  },
+  {
+    "name": "Gibraltar",
+    "formalName": "Gibraltar",
+    "iso": "GI",
+    "iso3": "GIB",
+    "bacen": 2933
+  },
+  {
+    "name": "Grécia",
+    "formalName": "República Helênica",
+    "iso": "GR",
+    "iso3": "GRC",
+    "bacen": 3018
+  },
+  {
+    "name": "Groelândia",
+    "formalName": "Groelândia",
+    "iso": "GL",
+    "iso3": "GRL",
+    "bacen": 3050
+  },
+  {
+    "name": "Granada",
+    "formalName": "Granada",
+    "iso": "GD",
+    "iso3": "GRD",
+    "bacen": 2976
+  },
+  {
+    "name": "Guadalupe",
+    "formalName": "Guadalupe",
+    "iso": "GP",
+    "iso3": "GLP",
+    "bacen": 3093
+  },
+  {
+    "name": "Guão",
+    "formalName": "Território do Guão",
+    "iso": "GU",
+    "iso3": "GUM",
+    "bacen": 3131
+  },
+  {
+    "name": "Guatemala",
+    "formalName": "República da Guatemala",
+    "iso": "GT",
+    "iso3": "GTM",
+    "bacen": 3174
+  },
+  {
+    "name": "Guiné",
+    "formalName": "República do Guiné",
+    "iso": "GN",
+    "iso3": "GIN",
+    "bacen": 3298
+  },
+  {
+    "name": "Guiné-Bissau",
+    "formalName": "República da Guiné-Bissau",
+    "iso": "GW",
+    "iso3": "GNB",
+    "bacen": 3344
+  },
+  {
+    "name": "Guiana",
+    "formalName": "República Cooperativa da Guiana",
+    "iso": "GY",
+    "iso3": "GUY",
+    "bacen": 3379
+  },
+  {
+    "name": "Haiti",
+    "formalName": "República do Haiti",
+    "iso": "HT",
+    "iso3": "HTI",
+    "bacen": 3417
+  },
+  {
+    "name": "Ilhas Heard e McDonald",
+    "formalName": "Território das Ilhas Heard e McDonald",
+    "iso": "HM",
+    "iso3": "HMD",
+    "bacen": 3603
+  },
+  {
+    "name": "Vaticano",
+    "formalName": "Estado da Cidade do Vaticano",
+    "iso": "VA",
+    "iso3": "VAT",
+    "bacen": 8486
+  },
+  {
+    "name": "Honduras",
+    "formalName": "República de Honduras",
+    "iso": "HN",
+    "iso3": "HND",
+    "bacen": 3450
+  },
+  {
+    "name": "Hong Kong",
+    "formalName": "Região Administrativa Especial de Hong Kong da República Popular da China",
+    "iso": "HK",
+    "iso3": "HKG",
+    "bacen": 3514
+  },
+  {
+    "name": "Hungria",
+    "formalName": "Hungria",
+    "iso": "HU",
+    "iso3": "HUN",
+    "bacen": 3557
+  },
+  {
+    "name": "Islândia",
+    "formalName": "Islândia",
+    "iso": "IS",
+    "iso3": "ISL",
+    "bacen": 3794
+  },
+  {
+    "name": "Índia",
+    "formalName": "República da Índia",
+    "iso": "IN",
+    "iso3": "IND",
+    "bacen": 3611
+  },
+  {
+    "name": "Indonésia",
+    "formalName": "República da Indonésia",
+    "iso": "ID",
+    "iso3": "IDN",
+    "bacen": 3654
+  },
+  {
+    "name": "Iran",
+    "formalName": "República Islâmica do Iran",
+    "iso": "IR",
+    "iso3": "IRN",
+    "bacen": 3727
+  },
+  {
+    "name": "Iraque",
+    "formalName": "República do Iraque",
+    "iso": "IQ",
+    "iso3": "IRQ",
+    "bacen": 3697
+  },
+  {
+    "name": "Irlanda",
+    "formalName": "Irlanda",
+    "iso": "IE",
+    "iso3": "IRL",
+    "bacen": 3751
+  },
+  {
+    "name": "Israel",
+    "formalName": "Estado de Israel",
+    "iso": "IL",
+    "iso3": "ISR",
+    "bacen": 3832
+  },
+  {
+    "name": "Italia",
+    "formalName": "República Italiana",
+    "iso": "IT",
+    "iso3": "ITA",
+    "bacen": 3867
+  },
+  {
+    "name": "Jamaica",
+    "formalName": "Jamaica",
+    "iso": "JM",
+    "iso3": "JAM",
+    "bacen": 3913
+  },
+  {
+    "name": "Japão",
+    "formalName": "Japão",
+    "iso": "JP",
+    "iso3": "JPN",
+    "bacen": 3999
+  },
+  {
+    "name": "Jornânia",
+    "formalName": "Reino Hachemita da Jordânia",
+    "iso": "JO",
+    "iso3": "JOR",
+    "bacen": 4030
+  },
+  {
+    "name": "Cazaquistão",
+    "formalName": "República do Cazaquistão",
+    "iso": "KZ",
+    "iso3": "KAZ",
+    "bacen": 1538
+  },
+  {
+    "name": "Quênia",
+    "formalName": "República do Quênia",
+    "iso": "KE",
+    "iso3": "KEN",
+    "bacen": 6238
+  },
+  {
+    "name": "Kiribati",
+    "formalName": "República do Kiribati",
+    "iso": "KI",
+    "iso3": "KIR",
+    "bacen": 4111
+  },
+  {
+    "name": "Coreia do Norte",
+    "formalName": "República Democrática Popular da Coreia",
+    "iso": "KP",
+    "iso3": "PRK",
+    "bacen": 1872
+  },
+  {
+    "name": "Coreia do Sul",
+    "formalName": "República da Coreia",
+    "iso": "KR",
+    "iso3": "KOR",
+    "bacen": 1902
+  },
+  {
+    "name": "Kuwait",
+    "formalName": "Estado do Kuwait",
+    "iso": "KW",
+    "iso3": "KWT",
+    "bacen": 1988
+  },
+  {
+    "name": "Quirguistão",
+    "formalName": "República Quirguiz",
+    "iso": "KG",
+    "iso3": "KGZ",
+    "bacen": 6254
+  },
+  {
+    "name": "Laos",
+    "formalName": "República Democrática Popular Lau",
+    "iso": "LA",
+    "iso3": "LAO",
+    "bacen": 4200
+  },
+  {
+    "name": "Letônia",
+    "formalName": "República da Letônia",
+    "iso": "LV",
+    "iso3": "LVA",
+    "bacen": 4278
+  },
+  {
+    "name": "Líbano",
+    "formalName": "República Libanesa",
+    "iso": "LB",
+    "iso3": "LBN",
+    "bacen": 4316
+  },
+  {
+    "name": "Lesoto",
+    "formalName": "Reino do Lesoto",
+    "iso": "LS",
+    "iso3": "LSO",
+    "bacen": 4260
+  },
+  {
+    "name": "Libéria",
+    "formalName": "República da Libéria",
+    "iso": "LR",
+    "iso3": "LBR",
+    "bacen": 4340
+  },
+  {
+    "name": "Líbia",
+    "formalName": "Líbia",
+    "iso": "LY",
+    "iso3": "LBY",
+    "bacen": 4383
+  },
+  {
+    "name": "Liechtenstein",
+    "formalName": "Principado de Liechtenstein",
+    "iso": "LI",
+    "iso3": "LIE",
+    "bacen": 4405
+  },
+  {
+    "name": "Lituânia",
+    "formalName": "República da Lituânia",
+    "iso": "LT",
+    "iso3": "LTU",
+    "bacen": 4421
+  },
+  {
+    "name": "Luxemburgo",
+    "formalName": "Grão-Ducado do Luxemburgo",
+    "iso": "LU",
+    "iso3": "LUX",
+    "bacen": 4456
+  },
+  {
+    "name": "Macao",
+    "formalName": "Macao",
+    "iso": "MO",
+    "iso3": "MAC",
+    "bacen": 4472
+  },
+  {
+    "name": "Macedônia",
+    "formalName": "República da Macedônia",
+    "iso": "MK",
+    "iso3": "MKD",
+    "bacen": 4499
+  },
+  {
+    "name": "Madagascar",
+    "formalName": "República de Madagascar",
+    "iso": "MG",
+    "iso3": "MDG",
+    "bacen": 4502
+  },
+  {
+    "name": "Malawi",
+    "formalName": "República de Malawi",
+    "iso": "MW",
+    "iso3": "MWI",
+    "bacen": 4588
+  },
+  {
+    "name": "Malásia",
+    "formalName": "Malásia",
+    "iso": "MY",
+    "iso3": "MYS",
+    "bacen": 4553
+  },
+  {
+    "name": "Maldivas",
+    "formalName": "Reública de Maldivas",
+    "iso": "MV",
+    "iso3": "MDV",
+    "bacen": 4618
+  },
+  {
+    "name": "Mali",
+    "formalName": "República do Mali",
+    "iso": "ML",
+    "iso3": "MLI",
+    "bacen": 4642
+  },
+  {
+    "name": "Malta",
+    "formalName": "República de Malta",
+    "iso": "MT",
+    "iso3": "MLT",
+    "bacen": 4677
+  },
+  {
+    "name": "Ilhas Marshall",
+    "formalName": "República das Ilhas Marshall",
+    "iso": "MH",
+    "iso3": "MHL",
+    "bacen": 4766
+  },
+  {
+    "name": "Martinica",
+    "formalName": "Martinica",
+    "iso": "MQ",
+    "iso3": "MTQ",
+    "bacen": 4774
+  },
+  {
+    "name": "Mauritânia",
+    "formalName": "República Islâmica da Mauritânia",
+    "iso": "MR",
+    "iso3": "MRT",
+    "bacen": 4880
+  },
+  {
+    "name": "Maurício",
+    "formalName": "República de Maurício",
+    "iso": "MU",
+    "iso3": "MUS",
+    "bacen": 4855
+  },
+  {
+    "name": "Mayotte",
+    "formalName": "Departamento de Mayotte",
+    "iso": "YT",
+    "iso3": "MYT",
+    "bacen": 4898
+  },
+  {
+    "name": "México",
+    "formalName": "Estados Unidos Mexicanos",
+    "iso": "MX",
+    "iso3": "MEX",
+    "bacen": 4936
+  },
+  {
+    "name": "Micronésia",
+    "formalName": "Estados Federados da Micronesia",
+    "iso": "FM",
+    "iso3": "FSM",
+    "bacen": 4995
+  },
+  {
+    "name": "Moldova",
+    "formalName": "República de Moldova",
+    "iso": "MD",
+    "iso3": "MDA",
+    "bacen": 4944
+  },
+  {
+    "name": "Mônaco",
+    "formalName": "Principado de Mônaco",
+    "iso": "MC",
+    "iso3": "MCO",
+    "bacen": 4952
+  },
+  {
+    "name": "Mongólia",
+    "formalName": "Mongólia",
+    "iso": "MN",
+    "iso3": "MNG",
+    "bacen": 4979
+  },
+  {
+    "name": "Montserrat",
+    "formalName": "Montserrat",
+    "iso": "MS",
+    "iso3": "MSR",
+    "bacen": 5010
+  },
+  {
+    "name": "Marrocos",
+    "formalName": "Reino de Marrocos",
+    "iso": "MA",
+    "iso3": "MAR",
+    "bacen": 4740
+  },
+  {
+    "name": "Moçambique",
+    "formalName": "República de Moçambique",
+    "iso": "MZ",
+    "iso3": "MOZ",
+    "bacen": 5053
+  },
+  {
+    "name": "Birmânia",
+    "formalName": "República da União de Myanmar",
+    "iso": "MM",
+    "iso3": "MMR",
+    "bacen": 930
+  },
+  {
+    "name": "Namíbia",
+    "formalName": "República da Namíbia",
+    "iso": "NA",
+    "iso3": "NAM",
+    "bacen": 5070
+  },
+  {
+    "name": "Nauru",
+    "formalName": "República de Nauru",
+    "iso": "NR",
+    "iso3": "NRU",
+    "bacen": 5088
+  },
+  {
+    "name": "Nepal",
+    "formalName": "República Democrática Federativa do Nepal",
+    "iso": "NP",
+    "iso3": "NPL",
+    "bacen": 5177
+  },
+  {
+    "name": "Holanda",
+    "formalName": "Holanda",
+    "iso": "NL",
+    "iso3": "NLD",
+    "bacen": 5738
+  },
+  {
+    "name": "Antilhas Holandesas",
+    "formalName": "Antilhas Holandesas",
+    "iso": "AN",
+    "iso3": "ANT",
+    "bacen": 990
+  },
+  {
+    "name": "Nova Caledônia",
+    "formalName": "Nova Caledônia",
+    "iso": "NC",
+    "iso3": "NCL",
+    "bacen": 5428
+  },
+  {
+    "name": "Nova Zelândia",
+    "formalName": "Nova Zelândia",
+    "iso": "NZ",
+    "iso3": "NZL",
+    "bacen": 5487
+  },
+  {
+    "name": "Nicarágua",
+    "formalName": "República da Nicarágua",
+    "iso": "NI",
+    "iso3": "NIC",
+    "bacen": 5215
+  },
+  {
+    "name": "Niger",
+    "formalName": "República do Niger",
+    "iso": "NE",
+    "iso3": "NER",
+    "bacen": 5258
+  },
+  {
+    "name": "Nigéria",
+    "formalName": "República Federativa da Nigéria",
+    "iso": "NG",
+    "iso3": "NGA",
+    "bacen": 5282
+  },
+  {
+    "name": "Niue",
+    "formalName": "Niue",
+    "iso": "NU",
+    "iso3": "NIU",
+    "bacen": 5312
+  },
+  {
+    "name": "Ilha Norfolk",
+    "formalName": "Território da Ilha Norfolk",
+    "iso": "NF",
+    "iso3": "NFK",
+    "bacen": 5355
+  },
+  {
+    "name": "Ilhas Marianas do Norte",
+    "formalName": "Comunidade das Ilhas Marianas do Norte",
+    "iso": "MP",
+    "iso3": "MNP",
+    "bacen": 4723
+  },
+  {
+    "name": "Noruega",
+    "formalName": "Reino da Noruega",
+    "iso": "NO",
+    "iso3": "NOR",
+    "bacen": 5380
+  },
+  {
+    "name": "Omã",
+    "formalName": "Sultanato de Omã",
+    "iso": "OM",
+    "iso3": "OMN",
+    "bacen": 5568
+  },
+  {
+    "name": "Paquistão",
+    "formalName": "República Islâmica do Paquistão",
+    "iso": "PK",
+    "iso3": "PAK",
+    "bacen": 5762
+  },
+  {
+    "name": "Palau",
+    "formalName": "República de Palau",
+    "iso": "PW",
+    "iso3": "PLW",
+    "bacen": 5754
+  },
+  {
+    "name": "Palestina",
+    "formalName": "Estado da Palestina",
+    "iso": "PS",
+    "iso3": "PSE",
+    "bacen": 5780
+  },
+  {
+    "name": "Panamá",
+    "formalName": "República do Panamá",
+    "iso": "PA",
+    "iso3": "PAN",
+    "bacen": 5800
+  },
+  {
+    "name": "Papua-Nova Guiné",
+    "formalName": "Estado Independente da Papua-Nova Guiné",
+    "iso": "PG",
+    "iso3": "PNG",
+    "bacen": 5452
+  },
+  {
+    "name": "Paraguai",
+    "formalName": "República do Paraguai",
+    "iso": "PY",
+    "iso3": "PRY",
+    "bacen": 5860
+  },
+  {
+    "name": "Peru",
+    "formalName": "República do Peru",
+    "iso": "PE",
+    "iso3": "PER",
+    "bacen": 5894
+  },
+  {
+    "name": "Filipinas",
+    "formalName": "República das Filipinas",
+    "iso": "PH",
+    "iso3": "PHL",
+    "bacen": 2674
+  },
+  {
+    "name": "Ilhas Picárnia",
+    "formalName": "Ilhas Picárnia",
+    "iso": "PN",
+    "iso3": "PCN",
+    "bacen": 5932
+  },
+  {
+    "name": "Polônia",
+    "formalName": "República da Polônia",
+    "iso": "PL",
+    "iso3": "POL",
+    "bacen": 6033
+  },
+  {
+    "name": "Portugal",
+    "formalName": "República Portuguesa",
+    "iso": "PT",
+    "iso3": "PRT",
+    "bacen": 6076
+  },
+  {
+    "name": "Porto Rico",
+    "formalName": "Comunidade do Porto Rico",
+    "iso": "PR",
+    "iso3": "PRI",
+    "bacen": 6114
+  },
+  {
+    "name": "Catar",
+    "formalName": "Estado do Catar",
+    "iso": "QA",
+    "iso3": "QAT",
+    "bacen": 1546
+  },
+  {
+    "name": "Reunião",
+    "formalName": "Polônia",
+    "iso": "RE",
+    "iso3": "REU",
+    "bacen": 6602
+  },
+  {
+    "name": "Romênia",
+    "formalName": "Romênia",
+    "iso": "RO",
+    "iso3": "ROM",
+    "bacen": 6700
+  },
+  {
+    "name": "Rússia",
+    "formalName": "Federação Russa",
+    "iso": "RU",
+    "iso3": "RUS",
+    "bacen": 6769
+  },
+  {
+    "name": "Ruanda",
+    "formalName": "República da Ruanda",
+    "iso": "RW",
+    "iso3": "RWA",
+    "bacen": 6750
+  },
+  {
+    "name": "Santa Helena",
+    "formalName": "Saint Helena",
+    "iso": "SH",
+    "iso3": "SHN",
+    "bacen": 7102
+  },
+  {
+    "name": "São Cristóvão",
+    "formalName": "São Cristóvão",
+    "iso": "KN",
+    "iso3": "KNA",
+    "bacen": 6955
+  },
+  {
+    "name": "Santa Lúcia",
+    "formalName": "Santa Lúcia",
+    "iso": "LC",
+    "iso3": "LCA",
+    "bacen": 7153
+  },
+  {
+    "name": "São Pedro e Miquelon",
+    "formalName": "Coletividade Territorial de São Pedro e Miquelon",
+    "iso": "PM",
+    "iso3": "SPM",
+    "bacen": 7005
+  },
+  {
+    "name": "São Vicente e Granadinas",
+    "formalName": "São Vicente e Granadinas",
+    "iso": "VC",
+    "iso3": "VCT",
+    "bacen": 7056
+  },
+  {
+    "name": "Samoa",
+    "formalName": "Estado Independente de Samoa",
+    "iso": "WS",
+    "iso3": "WSM",
+    "bacen": 6904
+  },
+  {
+    "name": "São Marino",
+    "formalName": "República de São Marino",
+    "iso": "SM",
+    "iso3": "SMR",
+    "bacen": 6998
+  },
+  {
+    "name": "Sao Tomé e Príncipe",
+    "formalName": "República Democrática de Sao Tomé e Príncipe",
+    "iso": "ST",
+    "iso3": "STP",
+    "bacen": 7200
+  },
+  {
+    "name": "Arábia Saudita",
+    "formalName": "Reino da Arábia Saudita",
+    "iso": "SA",
+    "iso3": "SAU",
+    "bacen": 531
+  },
+  {
+    "name": "Senegal",
+    "formalName": "República do Senegal",
+    "iso": "SN",
+    "iso3": "SEN",
+    "bacen": 7285
+  },
+  {
+    "name": "Sérvia e Montenegro",
+    "formalName": "União Estatal de Sérvia e Montenegro",
+    "iso": "CS",
+    "iso3": "SRB"
+  },
+  {
+    "name": "Seicheles",
+    "formalName": "República das Seicheles",
+    "iso": "SC",
+    "iso3": "SYC",
+    "bacen": 7315
+  },
+  {
+    "name": "República da Serra Leoa",
+    "formalName": "República da Serra Leoa",
+    "iso": "SL",
+    "iso3": "SLE",
+    "bacen": 7358
+  },
+  {
+    "name": "Singapura",
+    "formalName": "República da Singapura",
+    "iso": "SG",
+    "iso3": "SGP",
+    "bacen": 7412
+  },
+  {
+    "name": "Eslováquia",
+    "formalName": "República Eslovaca",
+    "iso": "SK",
+    "iso3": "SVK",
+    "bacen": 2470
+  },
+  {
+    "name": "Eslovênia",
+    "formalName": "República da Eslovênia",
+    "iso": "SI",
+    "iso3": "SVN",
+    "bacen": 2461
+  },
+  {
+    "name": "Ilhas Salomão",
+    "formalName": "Ilhas Salomão",
+    "iso": "SB",
+    "iso3": "SLB",
+    "bacen": 6777
+  },
+  {
+    "name": "Somália",
+    "formalName": "República da Somália",
+    "iso": "SO",
+    "iso3": "SOM",
+    "bacen": 7480
+  },
+  {
+    "name": "África do Sul",
+    "formalName": "República da África do Sul",
+    "iso": "ZA",
+    "iso3": "ZAF",
+    "bacen": 7560
+  },
+  {
+    "name": "Ilhas Geórgia do Sul e Sandwich do Sul",
+    "formalName": "Ilhas Geórgia do Sul e Sandwich do Sul",
+    "iso": "GS",
+    "iso3": "SGS",
+    "bacen": 2925
+  },
+  {
+    "name": "Espanha",
+    "formalName": "Reino da Espanha",
+    "iso": "ES",
+    "iso3": "ESP",
+    "bacen": 2453
+  },
+  {
+    "name": "Sri Lanka",
+    "formalName": "República Democrática Socialista do Sri Lanka",
+    "iso": "LK",
+    "iso3": "LKA",
+    "bacen": 7501
+  },
+  {
+    "name": "Sudão",
+    "formalName": "República do Sudão",
+    "iso": "SD",
+    "iso3": "SDN",
+    "bacen": 7595
+  },
+  {
+    "name": "Suriname",
+    "formalName": "República do Suriname",
+    "iso": "SR",
+    "iso3": "SUR",
+    "bacen": 7706
+  },
+  {
+    "name": "Esvalbarde",
+    "formalName": "Esvalbarde",
+    "iso": "SJ",
+    "iso3": "SJM",
+    "bacen": 7552
+  },
+  {
+    "name": "Suazilândia",
+    "formalName": "Reino da Suazilândia",
+    "iso": "SZ",
+    "iso3": "SWZ",
+    "bacen": 7544
+  },
+  {
+    "name": "Suécia",
+    "formalName": "Reino da Suécia",
+    "iso": "SE",
+    "iso3": "SWE",
+    "bacen": 7641
+  },
+  {
+    "name": "Suiça",
+    "formalName": "Confederação Suiça",
+    "iso": "CH",
+    "iso3": "CHE",
+    "bacen": 7676
+  },
+  {
+    "name": "Síria",
+    "formalName": "República Árabe Síria",
+    "iso": "SY",
+    "iso3": "SYR",
+    "bacen": 7447
+  },
+  {
+    "name": "Taiwan",
+    "formalName": "Taiwan",
+    "iso": "TW",
+    "iso3": "TWN",
+    "bacen": 1619
+  },
+  {
+    "name": "Tajiquistão",
+    "formalName": "República do Tajiquistão",
+    "iso": "TJ",
+    "iso3": "TJK",
+    "bacen": 7722
+  },
+  {
+    "name": "Tanzânia",
+    "formalName": "República Unida da Tanzânia",
+    "iso": "TZ",
+    "iso3": "TZA",
+    "bacen": 7803
+  },
+  {
+    "name": "Tailândia",
+    "formalName": "Reino da Tailândia",
+    "iso": "TH",
+    "iso3": "THA",
+    "bacen": 7765
+  },
+  {
+    "name": "Timor-Leste",
+    "formalName": "República Democrática de Timor-Leste",
+    "iso": "TL",
+    "iso3": "TLS",
+    "bacen": 7951
+  },
+  {
+    "name": "Togo",
+    "formalName": "República Togolesa",
+    "iso": "TG",
+    "iso3": "TGO",
+    "bacen": 8001
+  },
+  {
+    "name": "Toquelau",
+    "formalName": "Toquelau",
+    "iso": "TK",
+    "iso3": "TKL",
+    "bacen": 8052
+  },
+  {
+    "name": "Tonga",
+    "formalName": "Reino de Tonga",
+    "iso": "TO",
+    "iso3": "TON",
+    "bacen": 8109
+  },
+  {
+    "name": "Trinidad e Tobago",
+    "formalName": "República da Trinidad e Tobago",
+    "iso": "TT",
+    "iso3": "TTO",
+    "bacen": 8150
+  },
+  {
+    "name": "Tunísia",
+    "formalName": "República da Tunísia",
+    "iso": "TN",
+    "iso3": "TUN",
+    "bacen": 8206
+  },
+  {
+    "name": "Turquia",
+    "formalName": "República da Turquia",
+    "iso": "TR",
+    "iso3": "TUR",
+    "bacen": 8273
+  },
+  {
+    "name": "Turcomenistão",
+    "formalName": "Turcomenistão",
+    "iso": "TM",
+    "iso3": "TKM",
+    "bacen": 8249
+  },
+  {
+    "name": "Ilhas Turks e Caicos",
+    "formalName": "Ilhas Turks e Caicos",
+    "iso": "TC",
+    "iso3": "TCA",
+    "bacen": 8230
+  },
+  {
+    "name": "Tuvalu",
+    "formalName": "Tuvalu",
+    "iso": "TV",
+    "iso3": "TUV",
+    "bacen": 8281
+  },
+  {
+    "name": "Uganda",
+    "formalName": "República de Uganda",
+    "iso": "UG",
+    "iso3": "UGA",
+    "bacen": 8338
+  },
+  {
+    "name": "Ucrânia",
+    "formalName": "Ucrânia",
+    "iso": "UA",
+    "iso3": "UKR",
+    "bacen": 8311
+  },
+  {
+    "name": "Emirados Árabes",
+    "formalName": "Emirados Árabes Unidos",
+    "iso": "AE",
+    "iso3": "ARE",
+    "bacen": 2445
+  },
+  {
+    "name": "Reino Unido",
+    "formalName": "Reino Unido da Grã-Bretanha e Irlanda do Norte",
+    "iso": "GB",
+    "iso3": "GBR",
+    "bacen": 6289
+  },
+  {
+    "name": "Estados Unidos",
+    "formalName": "Estados Unidos da América",
+    "iso": "US",
+    "iso3": "USA",
+    "bacen": 2496
+  },
+  {
+    "name": "Ilhas Menores Distantes dos Estados Unidos",
+    "formalName": "Ilhas Menores Distantes dos Estados Unidos",
+    "iso": "UM",
+    "iso3": "UMI",
+    "bacen": 18664
+  },
+  {
+    "name": "Uruguai",
+    "formalName": "República Oriental do Uruguai",
+    "iso": "UY",
+    "iso3": "URY",
+    "bacen": 8451
+  },
+  {
+    "name": "Uzbequistão",
+    "formalName": "República do Uzbequistão",
+    "iso": "UZ",
+    "iso3": "UZB",
+    "bacen": 8478
+  },
+  {
+    "name": "Vanuatu",
+    "formalName": "República de Vanuatu",
+    "iso": "VU",
+    "iso3": "VUT",
+    "bacen": 5517
+  },
+  {
+    "name": "Venezuela",
+    "formalName": "República Bolivariana da Venezuela",
+    "iso": "VE",
+    "iso3": "VEN",
+    "bacen": 8508
+  },
+  {
+    "name": "Vietnam",
+    "formalName": "República Socialista do Vietnam",
+    "iso": "VN",
+    "iso3": "VNM",
+    "bacen": 8583
+  },
+  {
+    "name": "Ilhas Virgens Inglesas",
+    "formalName": "Ilhas Virgens",
+    "iso": "VG",
+    "iso3": "VGB",
+    "bacen": 8630
+  },
+  {
+    "name": "Ilhas Virgens (USA)",
+    "formalName": "Ilhas Virgens dos Estados Unidos",
+    "iso": "VI",
+    "iso3": "VIR",
+    "bacen": 8664
+  },
+  {
+    "name": "Wallis e Futuna",
+    "formalName": "Wallis e Futuna",
+    "iso": "WF",
+    "iso3": "WLF",
+    "bacen": 8753
+  },
+  {
+    "name": "Saara Ocidental",
+    "formalName": "Saara Ocidental",
+    "iso": "EH",
+    "iso3": "ESH",
+    "bacen": 6858
+  },
+  {
+    "name": "Iêmen",
+    "formalName": "República do Iêmen",
+    "iso": "YE",
+    "iso3": "YEM",
+    "bacen": 3573
+  },
+  {
+    "name": "Zâmbia",
+    "formalName": "República do Zâmbia",
+    "iso": "ZM",
+    "iso3": "ZMB",
+    "bacen": 8907
+  },
+  {
+    "name": "Zimbábue",
+    "formalName": "República do Zimbábue",
+    "iso": "ZW",
+    "iso3": "ZWE",
+    "bacen": 6653
+  }
+]
